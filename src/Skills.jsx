@@ -12,6 +12,7 @@ const Skills = () => {
             <button className="btn btn-xl bg-amber-200">MongoDB</button>
             <button className="btn btn-xl bg-amber-200">HTML</button>
             <button className="btn btn-xl bg-amber-200">CSS</button>
+            <button className="btn btn-xl bg-amber-200">CSS</button>
         
             </div>
         </div>
