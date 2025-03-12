@@ -3,7 +3,7 @@
 const Contact = () => {
     return (
         <div>
-            <p className="text-center text-3xl font-bold ">Contact Me</p>
+            <p className="text-center text-3xl font-bold ">Contact</p>
             <div className="hero bg-base-200  p-6">
                 <div className="hero-content flex-col lg:flex-row-reverse">
                     <div className="text-center lg:text-left">
